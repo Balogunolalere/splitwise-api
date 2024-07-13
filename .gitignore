@@ -1,0 +1,15 @@
+.space
+Spacefile
+env
+.env
+__pycache__
+*/__pycache__/*
+*/.pytest_cache/*
+*/.mypy_cache/*
+*/.mypy_cache/*
+*/.tox/*
+*/.tox/*
+*/.vscode/*
+*/.vscode/*
+*/.idea/*
+*/.idea
